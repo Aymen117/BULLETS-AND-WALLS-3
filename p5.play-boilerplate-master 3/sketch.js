@@ -10,7 +10,7 @@ function setup() {
   speed=random(233,321);
   wieght=random(30,52);
   thickness=random(22,83);
-
+bullet.velocityX=9;
 }
 
 
